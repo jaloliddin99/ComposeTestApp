@@ -52,10 +52,12 @@ class MainActivity : ComponentActivity() {
 //                                TopRow()
 //                            }
 //                        }
-
                         items(20) {
                             BottomColumn()
                         }
+
+                        //this is just comment
+
 
                     }
                 }
