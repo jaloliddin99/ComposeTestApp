@@ -57,6 +57,7 @@ class MainActivity : ComponentActivity() {
                         }
 
                         //this is just comment
+                        //this is second just comment
 
 
                     }
